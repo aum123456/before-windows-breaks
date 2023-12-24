@@ -36,6 +36,10 @@ NOTE: Make sure you use an empty USB/DVD with atleast 16 GB capacity.
 
 NOTE: If you had previously partitioned your drive, the drive will be restored to its original state (whatever it was). You will have to set up the partitions again.
 
+Official article on [creating a recovery drive](https://support.microsoft.com/en-us/windows/create-a-recovery-drive-abb4691b-5324-6d4a-8766-73fab304c246).
+
+Official article on [recovering from a recovery drive](https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5).
+
 # Creating a "System Image"
 
 A **system image** = Windows + your apps + settings + personal files
